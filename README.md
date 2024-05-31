@@ -5,12 +5,22 @@
 
 
 
+
+
+
 Learning from the project: 
+
 - Altering the table.
+  
 - Use of the isnull() function.
+
 - Use of substring.
+
 - Learned about PARSENAME().
+
 - Used a case statement.
+
+
 
 
 
