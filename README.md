@@ -15,17 +15,17 @@
 - Deleting unused columns.
 
 
-## Table
+## Database Structure
+The project database contains tables of realistic datasets. Here is an overview of the primary table:
+
+*Nashville-Housing*:- Which Has Data Of PropertyAddres, SaleDate, SalePrice,	LegalReference,	OwnerName,	OwnerAddress,	Acreage,	TaxDistrict etc.
 
 
 
 ## Features
 - *Database Creation*: Scripts to create and initialize the database.
 - *CRUD Operations*: Examples of Create, Read, Update, and Delete operations.
-- *Complex Queries*: Advanced SQL queries, including joins, subqueries, and aggregations.
 - *Data Analysis*: Analytical queries to derive insights from the data.
-- * Window Functions*: Implementation of Window Function and user-defined functions.
-- *Views*: Use of views for optimization and abstraction.
 
 ## Learning from the project: 
 
